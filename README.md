@@ -21,6 +21,6 @@ npm start
 
 ## Credits
 
-[Tailwind CSS](https://tailwindcss.com/)
-[React JS](https://reactjs.org/)
-[Meraki UI](https://merakiui.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React JS](https://reactjs.org/)
+- [Meraki UI](https://merakiui.com/)
